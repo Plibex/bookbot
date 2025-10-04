@@ -1,0 +1,6 @@
+# OS/editor
+.local/
+.vscode-server/
+
+# Project
+webflyx-local/
