@@ -4,3 +4,27 @@
 
 # Project
 webflyx-local/
+# Shell/editor/history
+.bashrc
+.zshrc
+.bash_history
+.lesshst
+.wget-hsts
+.motd_shown
+.sudo_as_admin_successful
+
+# Git/config tools
+.gitconfig
+.bash-git-prompt/
+.landscape/
+
+# Caches and configs
+.cache/
+.config/
+
+# Downloads and local projects
+Downloads/
+bookbot/
+webflyx/
+go
+.bootdev.yaml
